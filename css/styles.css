@@ -129,7 +129,7 @@ a{
 
 #sectionTitleMenu{
     /* background: url(https://ayoqq.org/images/drawing-chalk-pizza-12.jpg); */
-    color: white;
+    color: black;
     /* display: block; */
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
@@ -199,7 +199,7 @@ a{
 
 .pizza{
     font-family: 'Raleway', sans-serif;
-    color: white;
+    color: black;
     /* font-weight: bold; */
     font-size: 22px;
     /* text-decoration: underline; */
@@ -230,7 +230,7 @@ a{
     height: 400px;
     padding: 20px;
     background: url(https://fresheverything.ca/wp-content/uploads/2015/09/ChalkboardBackground.jpg);
-    color: white; 
+    color: black; 
 }
 
 #hours{
@@ -259,7 +259,7 @@ a{
 } */
 
 #sectionTitleVisit{
-    color: white;
+    color: black;
     font-size: 30px;
     text-align: center;
     font-family: 'Raleway', sans-serif;
